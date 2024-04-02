@@ -1,0 +1,37 @@
+
+/*.conteudo {
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    margin: 10px; 
+    float: center;
+}*/
+        
+        
+.conteudo {
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+/* .conteudo {
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    margin: 10px; 
+    float: right;
+}*/
+/*os tres elementos estão concorrendo pelo o espaço*/
+
+/*.conteudo1 {
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 250px;
+    margin: 10px;
+    float: left;
+}/*
