@@ -1,0 +1,11 @@
+Elementos Bloco 
+* inline
+* block
+* inline-block
+
+Ex1: Elemento block
+<h1>,<p>,<table>
+Ex2: Elemento inline
+<a>, <span>, <img>
+Ex3: Elemento inline-block
+display: inline-block
