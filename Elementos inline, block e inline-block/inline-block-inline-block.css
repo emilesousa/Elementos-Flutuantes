@@ -1,0 +1,19 @@
+/*.borda > h1{
+    border: 1px solid red;
+    display: inline;
+}*/
+/*.borda > h1{
+    border: 1px solid red;
+    display: inline-block;
+}*/
+/*.borda > h1{
+    border: 1px solid red;
+    display: block;
+}*/
+.inline{
+    border: 1px solid red;
+    /*display: block;*/
+    /*display: inline;*/
+    display: inline-block;
+}
+
