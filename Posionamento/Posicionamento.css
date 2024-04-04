@@ -20,5 +20,7 @@ p{
     border: 2px solid red;
     position: relative;
     /*top, rigth, bottom, left*/
-    ma
+    top: 20px;
+    /*right: 80px;*/
+    left: 80px;;
 }
