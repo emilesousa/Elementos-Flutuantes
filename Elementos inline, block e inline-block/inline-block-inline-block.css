@@ -12,6 +12,7 @@
 }*/
 .inline{
     border: 1px solid red;
+    padding: 10px;
     /*display: block;*/
     /*display: inline;*/
     display: inline-block;
