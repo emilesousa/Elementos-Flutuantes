@@ -1,15 +1,21 @@
-/*.borda > h1{
+/*
+.borda > h1{
     border: 1px solid red;
     display: inline;
-}*/
-/*.borda > h1{
+}
+*/
+/*
+.borda > h1{
     border: 1px solid red;
     display: inline-block;
-}*/
-/*.borda > h1{
+}
+*/
+/*
+.borda > h1{
     border: 1px solid red;
     display: block;
-}*/
+}
+*/
 .inline{
     border: 1px solid red;
     padding: 10px;
